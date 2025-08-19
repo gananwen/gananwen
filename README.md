@@ -22,10 +22,9 @@
 
 ### Frameworks & Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,idea" />
 </div>
-
 ---
 
 ## 📊 GitHub Stats
