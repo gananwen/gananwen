@@ -22,10 +22,10 @@
 
 ### Frameworks & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,idea" />
 </div>
----
+
 
 ## 📊 GitHub Stats
 ![Anwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gananwen&show_icons=true&theme=tokyonight)  
