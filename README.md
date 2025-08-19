@@ -37,7 +37,7 @@
 ## 🔗 Connect with Me
 - 📧 Email: gananwen16@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/anwen-gan-b67447364/
-- 🌐 Portfolio: https://gananwen.github.io/my-portfolio/
+- 🌐 Portfolio: [https://gananwen.github.io/my-portfolio/](https://gananwen.github.io/my-portfolio/)
 
 ---
 ⭐️ From [gananwen](https://github.com/gananwen)
